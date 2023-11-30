@@ -19,6 +19,7 @@ dist-ssr
 !.yarn/plugins
 !.yarn/sdks
 !.yarn/versions
+!.yarn/releases
 
 # Editor directories and files
 .vscode/*
